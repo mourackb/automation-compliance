@@ -9,3 +9,6 @@ Tern is a tool to find the metadata for packages installed in Docker container
 ## SecurityTXT
 https://securitytxt.org/
 This initiative is a good approach to make the communication of security researchers and companies
+
+## Pentest lists
+https://github.com/enaqx/awesome-pentest#information-security-conferences
