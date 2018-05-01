@@ -12,3 +12,6 @@ This initiative is a good approach to make the communication of security researc
 
 ## Pentest lists
 https://github.com/enaqx/awesome-pentest#information-security-conferences
+
+## Backups
+https://github.com/christophetd/duplicacy-autobackup
