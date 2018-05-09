@@ -18,3 +18,6 @@ https://github.com/christophetd/duplicacy-autobackup
 
 ## CIS Benchmark
 https://github.com/awslabs/aws-security-benchmark
+
+## Policies monitoring
+https://github.com/Netflix/security_monkey
