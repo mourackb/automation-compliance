@@ -1,5 +1,5 @@
 # automation-compliance
-A repo to collect all tools regarding automation, compliance and automation compliance
+A repo to collect all tools regarding automation, compliance and automation compliance (It may contain something else)
 
 
 ## Tern
@@ -21,3 +21,6 @@ https://github.com/awslabs/aws-security-benchmark
 
 ## Policies monitoring
 https://github.com/Netflix/security_monkey
+
+## Hardening
+https://github.com/ThreatResponse
