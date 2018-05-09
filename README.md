@@ -15,3 +15,6 @@ https://github.com/enaqx/awesome-pentest#information-security-conferences
 
 ## Backups
 https://github.com/christophetd/duplicacy-autobackup
+
+## CIS Benchmark
+https://github.com/awslabs/aws-security-benchmark
