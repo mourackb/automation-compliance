@@ -20,9 +20,11 @@ https://github.com/christophetd/duplicacy-autobackup
 https://github.com/awslabs/aws-security-benchmark
 ### Tools to assist the benchmarking
 https://github.com/toniblyx/prowler
+### CIS reporting
 
 ## Policies monitoring
 https://github.com/Netflix/security_monkey
 https://github.com/nccgroup/Scout2
+
 ## Hardening
 https://github.com/ThreatResponse
