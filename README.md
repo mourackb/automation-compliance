@@ -4,7 +4,7 @@ A repo to collect all tools regarding automation, compliance and automation comp
 
 ## Tern
 https://github.com/vmware/tern
-Tern is a tool to find the metadata for packages installed in Docker container
+Tern is a tool to find the metadata for packages installed in Docker container. A great way to start the inspection
 
 ## SecurityTXT
 https://securitytxt.org/
