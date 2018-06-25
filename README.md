@@ -28,3 +28,6 @@ https://github.com/nccgroup/Scout2
 
 ## Hardening
 https://github.com/ThreatResponse
+
+## AWS Cli assume roles
+https://github.com/coinbase/assume-role
