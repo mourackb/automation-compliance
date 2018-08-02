@@ -31,3 +31,6 @@ https://github.com/ThreatResponse
 
 ## AWS Cli assume roles
 https://github.com/coinbase/assume-role
+
+## An arsenal from toniblyx related with AWS security tools
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
