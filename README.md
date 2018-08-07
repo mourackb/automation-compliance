@@ -34,3 +34,6 @@ https://github.com/coinbase/assume-role
 
 ## An arsenal from toniblyx related with AWS security tools
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+
+## CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+https://github.com/UKHomeOffice/repo-security-scanner
