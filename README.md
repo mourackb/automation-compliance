@@ -18,6 +18,7 @@ https://github.com/christophetd/duplicacy-autobackup
 
 ## CIS Benchmark
 https://github.com/awslabs/aws-security-benchmark
+
 ### Tools to assist the benchmarking
 https://github.com/toniblyx/prowler
 ### CIS reporting
@@ -40,3 +41,10 @@ https://github.com/UKHomeOffice/repo-security-scanner
 
 ## Auditing Linux
 https://github.com/bfuzzy/auditd-attack
+
+## Forensic toolset
+https://www.sleuthkit.org/
+https://github.com/ThreatResponse/aws_ir
+
+# AWS Secutiy automation
+https://github.com/awslabs/aws-security-automation
