@@ -46,5 +46,8 @@ https://github.com/bfuzzy/auditd-attack
 https://www.sleuthkit.org/
 https://github.com/ThreatResponse/aws_ir
 
-# AWS Secutiy automation
+# AWS Security automation
 https://github.com/awslabs/aws-security-automation
+
+#Exploit searching
+https://sploitus.com/
